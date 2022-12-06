@@ -601,154 +601,210 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 600
 "../../../Engine/Content/Maps/Entry.uexp" 601
 "../../../Engine/Content/Maps/Entry.umap" 602
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.ubulk" 603
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uasset" 604
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uexp" 605
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uasset" 606
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uexp" 607
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_01.uasset" 608
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_01.uexp" 609
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.ubulk" 610
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.uasset" 611
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.uexp" 612
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_09.uasset" 613
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_09.uexp" 614
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.ubulk" 615
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.uasset" 616
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.uexp" 617
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_03.uasset" 618
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_03.uexp" 619
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.ubulk" 620
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.uasset" 621
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.uexp" 622
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_01_brown.uasset" 623
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_01_brown.uexp" 624
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.ubulk" 625
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.uasset" 626
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.uexp" 627
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_01.uasset" 628
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_01.uexp" 629
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.ubulk" 630
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.uasset" 631
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.uexp" 632
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_panels_01_wood_light.uasset" 633
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_panels_01_wood_light.uexp" 634
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uasset" 635
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uexp" 636
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uasset" 637
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uexp" 638
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uasset" 639
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uexp" 640
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uasset" 641
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uexp" 642
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_GlassBasic.uasset" 643
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_GlassBasic.uexp" 644
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.ubulk" 645
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.uasset" 646
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.uexp" 647
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_11.uasset" 648
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_11.uexp" 649
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.ubulk" 650
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.uasset" 651
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.uexp" 652
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_16.uasset" 653
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_16.uexp" 654
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.ubulk" 655
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.uasset" 656
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.uexp" 657
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_03.uasset" 658
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_03.uexp" 659
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.ubulk" 660
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.uasset" 661
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.uexp" 662
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_06.uasset" 663
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_06.uexp" 664
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.ubulk" 665
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uasset" 666
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uexp" 667
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.ubulk" 668
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uasset" 669
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uexp" 670
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uasset" 671
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uexp" 672
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_ColorPalette.uasset" 673
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_ColorPalette.uexp" 674
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown2.uasset" 675
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown2.uexp" 676
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.ubulk" 677
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.uasset" 678
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.uexp" 679
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_11.uasset" 680
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_11.uexp" 681
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Buildings/SM_GasStationOld.uasset" 682
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Buildings/SM_GasStationOld.uexp" 683
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/PC_possesion.uasset" 684
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/PC_possesion.uexp" 685
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 686
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 687
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/joystick.uasset" 688
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/joystick.uexp" 689
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 690
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 691
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.ubulk" 692
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uasset" 693
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uexp" 694
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uasset" 695
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uexp" 696
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.ubulk" 697
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.uasset" 698
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.uexp" 699
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_02.uasset" 700
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_02.uexp" 701
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteBrown.uasset" 702
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteBrown.uexp" 703
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_03.uasset" 704
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_03.uexp" 705
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_03_FoliageType.uasset" 706
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_03_FoliageType.uexp" 707
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/Ground.uasset" 708
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/Ground.uexp" 709
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01.uasset" 710
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01.uexp" 711
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_bush_01.uasset" 712
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_bush_01.uexp" 713
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 714
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 715
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uasset" 716
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uexp" 717
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_02_FoliageType.uasset" 718
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_02_FoliageType.uexp" 719
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_04.uasset" 720
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_04.uexp" 721
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_04_FoliageType.uasset" 722
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_04_FoliageType.uexp" 723
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/bush_01_FoliageType.uasset" 724
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/bush_01_FoliageType.uexp" 725
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Arrays_of_arrays.uasset" 726
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Arrays_of_arrays.uexp" 727
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/GridMaterial.uasset" 728
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/GridMaterial.uexp" 729
-"../../../Engine/Content/BasicShapes/Plane.uasset" 730
-"../../../Engine/Content/BasicShapes/Plane.uexp" 731
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/tEST.uasset" 732
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/tEST.uexp" 733
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/grid.uasset" 734
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/grid.uexp" 735
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.ubulk" 736
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uasset" 737
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uexp" 738
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uasset" 739
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uexp" 740
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uasset" 741
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uexp" 742
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01_FoliageType.uasset" 743
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01_FoliageType.uexp" 744
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01a_FoliageType.uasset" 745
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01a_FoliageType.uexp" 746
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/TEMPLATE_FILES/VRTemplate/Blueprints/VRGameMode.uasset" 747
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/TEMPLATE_FILES/VRTemplate/Blueprints/VRGameMode.uexp" 748
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.ubulk" 749
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.uasset" 750
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.uexp" 751
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap.uexp" 752
-"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap.umap" 753
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/MainMenu_BuiltData.ubulk" 603
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/MainMenu_BuiltData.uasset" 604
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/MainMenu_BuiltData.uexp" 605
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 606
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 607
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 608
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 611
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 612
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 613
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 615
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 616
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 617
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 618
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 619
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 620
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 621
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 622
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 623
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 624
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 625
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 626
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 627
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 628
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 629
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 630
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 631
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 632
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 633
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 634
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 635
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 636
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 637
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/UI/MainMenuWidget.uasset" 638
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/UI/MainMenuWidget.uexp" 639
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuWidget.uasset" 640
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuWidget.uexp" 641
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 642
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 643
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Mesh/Material_001.uasset" 644
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Mesh/Material_001.uexp" 645
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Mesh/LineSegment.uasset" 646
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Mesh/LineSegment.uexp" 647
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuPawn.uasset" 648
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuPawn.uexp" 649
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuGameMode.uasset" 650
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/UI/MainMenuGameMode.uexp" 651
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 652
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 653
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/MainMenu.uexp" 654
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/MainMenu.umap" 655
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.ubulk" 656
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uasset" 657
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uexp" 658
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uasset" 659
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uexp" 660
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_01.uasset" 661
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_01.uexp" 662
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.ubulk" 663
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.uasset" 664
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.uexp" 665
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_09.uasset" 666
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_09.uexp" 667
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.ubulk" 668
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.uasset" 669
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.uexp" 670
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_03.uasset" 671
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_03.uexp" 672
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.ubulk" 673
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.uasset" 674
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.uexp" 675
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_01_brown.uasset" 676
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Panels_01_brown.uexp" 677
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.ubulk" 678
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.uasset" 679
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.uexp" 680
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_01.uasset" 681
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_01.uexp" 682
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.ubulk" 683
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.uasset" 684
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.uexp" 685
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_panels_01_wood_light.uasset" 686
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_panels_01_wood_light.uexp" 687
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uasset" 688
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uexp" 689
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uasset" 690
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uexp" 691
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uasset" 692
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uexp" 693
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uasset" 694
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uexp" 695
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_GlassBasic.uasset" 696
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_GlassBasic.uexp" 697
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.ubulk" 698
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.uasset" 699
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.uexp" 700
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_11.uasset" 701
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_11.uexp" 702
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.ubulk" 703
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.uasset" 704
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.uexp" 705
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_16.uasset" 706
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Wallpaper_16.uexp" 707
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.ubulk" 708
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.uasset" 709
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.uexp" 710
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_03.uasset" 711
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Planks_03.uexp" 712
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.ubulk" 713
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.uasset" 714
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.uexp" 715
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_06.uasset" 716
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_06.uexp" 717
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.ubulk" 718
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uasset" 719
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uexp" 720
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.ubulk" 721
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uasset" 722
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uexp" 723
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uasset" 724
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uexp" 725
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_ColorPalette.uasset" 726
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_ColorPalette.uexp" 727
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown2.uasset" 728
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteDarkBrown2.uexp" 729
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.ubulk" 730
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.uasset" 731
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.uexp" 732
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_11.uasset" 733
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_11.uexp" 734
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Buildings/SM_GasStationOld.uasset" 735
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Buildings/SM_GasStationOld.uexp" 736
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/PC_possesion.uasset" 737
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/PC_possesion.uexp" 738
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 739
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 740
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/joystick.uasset" 741
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Movment/joystick.uexp" 742
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 743
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 744
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.ubulk" 745
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uasset" 746
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uexp" 747
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uasset" 748
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uexp" 749
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.ubulk" 750
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.uasset" 751
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.uexp" 752
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_02.uasset" 753
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_02.uexp" 754
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteBrown.uasset" 755
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_matteBrown.uexp" 756
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_03.uasset" 757
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_03.uexp" 758
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_03_FoliageType.uasset" 759
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_03_FoliageType.uexp" 760
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/Ground.uasset" 761
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/Ground.uexp" 762
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01.uasset" 763
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01.uexp" 764
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_bush_01.uasset" 765
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_bush_01.uexp" 766
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 767
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 768
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uasset" 769
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uexp" 770
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_02_FoliageType.uasset" 771
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_02_FoliageType.uexp" 772
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_04.uasset" 773
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_04.uexp" 774
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_04_FoliageType.uasset" 775
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_04_FoliageType.uexp" 776
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/bush_01_FoliageType.uasset" 777
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/bush_01_FoliageType.uexp" 778
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Arrays_of_arrays.uasset" 779
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/Arrays_of_arrays.uexp" 780
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Textures/GridTempTexture.ubulk" 781
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Textures/GridTempTexture.uasset" 782
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Textures/GridTempTexture.uexp" 783
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/GridMaterial.uasset" 784
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Materials/GridMaterial.uexp" 785
+"../../../Engine/Content/BasicShapes/Plane.uasset" 786
+"../../../Engine/Content/BasicShapes/Plane.uexp" 787
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/tEST.uasset" 788
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/tEST.uexp" 789
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/grid.uasset" 790
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Blueprints/grid.uexp" 791
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.ubulk" 792
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uasset" 793
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uexp" 794
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uasset" 795
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uexp" 796
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uasset" 797
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uexp" 798
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01_FoliageType.uasset" 799
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01_FoliageType.uexp" 800
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01a_FoliageType.uasset" 801
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/AssetsvilleTown/Meshes/Nature/tree_01a_FoliageType.uexp" 802
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/TEMPLATE_FILES/VRTemplate/Blueprints/VRGameMode.uasset" 803
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/TEMPLATE_FILES/VRTemplate/Blueprints/VRGameMode.uexp" 804
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.ubulk" 805
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.uasset" 806
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap_BuiltData.uexp" 807
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap.uexp" 808
+"C:/Users/Allkams/Documents/Unreal Projects/VRGameSTEAM/Content/Maps/GoQSMap.umap" 809
