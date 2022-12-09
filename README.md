@@ -6,10 +6,10 @@ STEAM: Science, Technology, Engineering, Artistic, Mathematics
 
 ## Table Of Content
 - [The Idea](#the-idea)
-- [Key Bindings](keybindings)
-  - [Gameplay Bindings](gameplay-bindings)
-  - [MainMenu Bindings](mainmenu-bindings)
-- [How to contribute](how-to-contribute)
+- [Key Bindings](#keybindings)
+  - [Gameplay Bindings](#gameplay-bindings)
+  - [MainMenu Bindings](#mainmenu-bindings)
+- [How to contribute](#how-to-contribute)
 
 ## The Idea
 Our general idea is an Sandbox city game where you control the world in VR. The world is a big grid where you can place buildings and solve problems for a specific part of STEAM. The world is living and you as the gamer has both the power to build but also go down to the "Ground" and walk around (With teleportation or similar movement) to explore the world you have created. You can see how npcs reacts to your creations and use this information to care about the persons! The game style is low poly and is created to learn the aspects of STEAM.
