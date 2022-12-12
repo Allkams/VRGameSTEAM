@@ -28,7 +28,7 @@ Our general idea is an Sandbox city game where you control the world in VR. The 
 | Left Grab | NO | |
 | Right Grab | NO | |
 | Left Trigger | YES | Click Ingame Menu |
-| Right Trigger | YES | Click Ingame Menu |
+| Right Trigger | YES | Click Ingame Menu, Place houses |
 
 ### MainMenu Bindings
 | Key | Used | Description |
