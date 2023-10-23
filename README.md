@@ -2,8 +2,9 @@
 
 A VR game that is made to empower females into the thinking of STEAM by a gamification experience.
 
-STEAM: Science, Technology, Engineering, Artistic, Mathematics
-Developed with Unreal Engine 5
+STEAM: Science, Technology, Engineering, Artistic, Mathematics  
+**Developed with Unreal Engine 5.0**  
+**(This is a student project)**
 
 ## Table Of Content
 - [The Idea](#the-idea)
